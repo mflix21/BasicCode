@@ -292,9 +292,9 @@ print('\n', list[0])
 
 """
 
-# list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-# for num in list:
-#     print(num, end= ' ')
+list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+for num in list:
+    print(num, end= ' ')
 
 
 
